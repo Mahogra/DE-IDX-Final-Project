@@ -8,8 +8,7 @@ Proyek ini bertujuan untuk membangun sebuah Data Warehouse (DWH) untuk sebuah kl
 
 ## Arsitektur & Alur Kerja
 
-Alur kerja proyek ini adalah sebagai berikut:
-![ETL Flow](https://imgur.com/a/Rr0MZfW) 
+
 
 **Sumber Data:**
 1. Database SQL Server (`transaction_db`, `account`, `customer`, `branch`, `city`, `state`)
